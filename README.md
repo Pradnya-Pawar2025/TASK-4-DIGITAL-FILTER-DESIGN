@@ -63,3 +63,4 @@ This FIR filter design is ideal for:
 Smoothing noisy signals.
 Low-pass filtering for audio, communication, or sensor signals.
 # OUTPUT
+[TASK 4.docx](https://github.com/user-attachments/files/18357125/TASK.4.docx)
